@@ -1,0 +1,12 @@
+.title {
+    grid-area: 2 / 2 / 3 / 3;
+    padding: 0 300px;
+    margin-bottom: 250px;
+}
+  
+.logo {
+    border-radius: 100%;
+    border: solid 2px rgba(255, 255, 255, 0.125);
+    width: 100px;
+    height: 100px;
+}

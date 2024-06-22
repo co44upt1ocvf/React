@@ -1,0 +1,18 @@
+.block_1{
+    grid-area: 3 / 1 / 4 / 4;
+    background-color: rgb(88, 75, 78);
+    padding: 100px 350px;
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    justify-content: right;
+    align-items: center;
+}
+.walk{
+    display: flex;
+    margin-left: 50px;
+    border-radius: 100%;
+    overflow: hidden;
+    height: 350px;
+    width: 350px;
+}

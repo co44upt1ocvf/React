@@ -1,0 +1,27 @@
+.header {
+    background-color: rgba(27, 27, 27, 0.95);
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link{
+    display: flex;
+    padding: 0 25px 0 0;
+    border-bottom: none;
+}
+
+.nameheader {
+    padding: 0 0 0 25px;
+    line-height: 0;
+}
+  
+.file {
+    width: 100px;
+    height: 50px;
+}
+  
